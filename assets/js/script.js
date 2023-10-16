@@ -15,7 +15,7 @@ for (let i = 0; i < tableau.length; i++) {
 // while
 
 let n = 0;
-while (n < 10) {
+while (n < 20) {
   console.log(n);
   n++;
 
